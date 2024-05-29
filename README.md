@@ -13,7 +13,7 @@
 - I'm a developer who primarily works on a Macbook. 💻🍎
 - I'm particularly fond of using Vim. ⌨️❤️
 
----
+<br>
 
 ## 👀 Github Activity
 
