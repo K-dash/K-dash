@@ -12,6 +12,7 @@
 
 - I'm a developer who primarily works on a Macbook. 💻🍎
 - I'm particularly fond of using Vim. ⌨️❤️
+- Although I work as a developer, my true strength lies in infrastructure. 🛠️🚀
 
 <br>
 
