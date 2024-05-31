@@ -137,7 +137,6 @@
 <!--Infrastructure(Network-->
 ![cisco](https://img.shields.io/badge/cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![fortinet](https://img.shields.io/badge/fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![vmware](https://img.shields.io/badge/vmware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 <!--IaC-->
 ![ansible](https://img.shields.io/badge/ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
@@ -158,7 +157,7 @@
 ![jira](https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![materialformkdocs](https://img.shields.io/badge/materialformkdocs-526CFE?style=flat-square&logo=materialformkdocs&logoColor=white)
 
-<!--IDEs-->
+<!--IDEs　& Tools-->
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-009639?style=flat-square&logo=Vim&logoColor=white)
 
