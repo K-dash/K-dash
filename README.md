@@ -18,7 +18,7 @@
 
 ## 👀 Github Activity
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=K-dash&theme=github-dark-dimmed&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=K-dash&theme=xcode&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 <!-- Copy-paste in your Readme.md file -->
