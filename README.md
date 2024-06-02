@@ -16,70 +16,21 @@
 
 <br>
 
-## 👀 Github Activity
+### ⚙️ &nbsp;GitHub Analytics
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=K-dash&theme=xcode&custom_title=Contribution%20Graph%20in%20the%20last%2031%20days&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=K-dash&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
 
 
-<!-- Copy-paste in your Readme.md file -->
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=51281148" target="_blank" style="display: block" align="center">
-    <picture>
-      <source decoding="async"　media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=51281148&image_size=auto&color_scheme=dark" width="771" height="auto">
-      <img alt="Dashboard stats of @K-dash" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=51281148&image_size=auto&color_scheme=light" width="771" height="auto">
-    </picture>
-  </a>
-</div>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-<br>
-
-<div align="center">
-  <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=51281148&activity_type=all" target="_blank" style="display: block" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=51281148&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
-      <img decoding="async"　alt="@K-dash's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=51281148&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
-    </picture>
-  </a>
-</div>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
----
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<a href="https://github.com/Prakash4844">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=K-dash&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=K-dash&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+ <br />
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=K-dash&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=K-dash&theme=dark&hide_border=false" /> 
-</td>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K-dash&theme=algolia" alt="Prakash4844" /></p>
 
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=K-dash&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=K-dash&theme=alduin&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=K-dash&column=6&theme=algolia" alt="Prakash4844Trophy" /></p>
 <!--- stats (end) -->
 
 <br>
