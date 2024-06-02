@@ -22,15 +22,15 @@
 
 
 <p align="center">
-<a href="https://github.com/Prakash4844">
+<a href="https://github.com/K-dash">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=K-dash&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=K-dash&layout=compact&langs_count=8&theme=algolia"/>
 </a>
  <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K-dash&theme=algolia" alt="Prakash4844" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K-dash&theme=algolia" alt="K-dash" /></p>
 
-<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=K-dash&column=6&theme=algolia" alt="Prakash4844Trophy" /></p>
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=K-dash&column=6&theme=algolia" alt="K-dashTrophy" /></p>
 <!--- stats (end) -->
 
 <br>
