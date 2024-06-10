@@ -10,9 +10,10 @@
   </ul>
 </div>
 
-- I'm a developer who primarily works on a Macbook. 💻🍎
+- I primarily work on the following:
+  - Backend development for web applications 🚀
+  - DevOps (IaC, CI/CD) 🛠️
 - I'm particularly fond of using Vim. ⌨️❤️
-- Although I work as a developer, my true strength lies in infrastructure. 🛠️🚀
 
 <br>
 
