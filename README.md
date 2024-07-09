@@ -14,7 +14,7 @@
   - Backend development for web applications 🚀
   - DevOps (IaC, CI/CD) 🛠️
 - I'm particularly fond of using Vim. ⌨️❤️
-- Currently learning Rust　🦀
+- Currently learning Rust 🦀
 
 <br>
 
