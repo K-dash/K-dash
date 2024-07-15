@@ -3,7 +3,7 @@
   <ul align="left">
     <summary>
       <h2 style="display: inline-block">
-        こんにちは 👋
+        Hi 👋
         <a href="https://github.com/K-dash/"><img src="https://komarev.com/ghpvc/?username=K-dash" alt="K-dash" /></a>
       </h2>
     </summary>
