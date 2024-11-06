@@ -11,9 +11,8 @@
 </div>
 
 - I primarily work on the following:
-  - Backend development for web applications 🚀
-  - DevOps (IaC, CI/CD) 🐳
-- I'm particularly fond of using Vim. ⌨️❤️
+  - Backend development for web applications
+  - DevOps
 - Currently learning Rust 🦀
 
 <br>
