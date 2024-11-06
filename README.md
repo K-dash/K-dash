@@ -10,9 +10,8 @@
   </ul>
 </div>
 
-- I primarily work on the following:
-  - Backend development for web applications
-  - DevOps
+- Backend development for web applications
+- DevOps (IaC, CI/CD)
 - Currently learning Rust 🦀
 
 <br>
