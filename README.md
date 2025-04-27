@@ -10,15 +10,13 @@
   </ul>
 </div>
 
-- Backend development for web applications
-- DevOps (IaC, CI/CD)
 - Currently learning Rust 🦀
 
 <br>
 
 ## 👀 &nbsp;GitHub Analytics
 
-![GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=K-dash&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+<!--![GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=K-dash&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)-->
 
 
 <p align="center">
@@ -28,7 +26,7 @@
 </a>
  <br />
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K-dash&theme=algolia" alt="K-dash" /></p>
+<!--p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K-dash&theme=algolia" alt="K-dash" /></p-->
 
-<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=K-dash&column=6&theme=algolia" alt="K-dashTrophy" /></p>
+<!--p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=K-dash&column=6&theme=algolia" alt="K-dashTrophy" /></p-->
 <!--- stats (end) -->
