@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-- Currently learning Rust 🦀
+Currently learning Rust 🦀
 
 <br>
 
