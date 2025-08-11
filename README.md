@@ -21,8 +21,8 @@ Currently learning Rust 🦀
 
 <p align="center">
 <a href="https://github.com/K-dash">
-  <img height="180em" src="https://github-readme-stats-gilt-ten-95.vercel.app/api?username=K-dash&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats-gilt-ten-95.vercel.app/api/top-langs/?username=K-dash&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-gilt-ten-95.vercel.app/api?username=K-dash&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-gilt-ten-95.vercel.app/api/top-langs/?username=K-dash&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
  <br />
   
