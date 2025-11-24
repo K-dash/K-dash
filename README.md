@@ -21,6 +21,8 @@
   <img height="180em" src="https://github-readme-stats-gilt-ten-95.vercel.app/api/top-langs/?username=K-dash&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
  <br />
+
+ [![An image of @kdash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kdash)](https://holopin.io/@kdash)  
   
 <!--p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K-dash&theme=algolia" alt="K-dash" /></p-->
 
