@@ -10,8 +10,6 @@
   </ul>
 </div>
 
-## &nbsp;GitHub Analytics
-
 <!--![GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=K-dash&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)-->
 
 
