@@ -20,8 +20,8 @@
 </a>
  <br />
 
-### Hacktoberfest 2025 Achievements
- [![An image of @kdash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kdash)](https://holopin.io/@kdash)  
+<!--### Hacktoberfest 2025 Achievements/>
+<!--[![An image of @kdash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kdash)](https://holopin.io/@kdash) />
   
 <!--p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=K-dash&theme=algolia" alt="K-dash" /></p-->
 
